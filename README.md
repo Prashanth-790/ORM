@@ -57,4 +57,4 @@ admin.site.register(Movie,MovieAdmin)
 
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM hass been executed successfully .
